@@ -7,11 +7,10 @@ nav_order: 5
 ---
 ## **Honors**
 
-- Huawei Scholarship 华为奖学金 (2024)
-- Excellent Graduate of Shanghai Jiao Tong University 上海交通大学优秀毕业生 (2023)
-- Ruiyuan-Sequoia Talent Development Fund 睿远-红杉人才发展基金 (2022)
-- National Scholarship for Undergraduate Excellence 国家奖学金 (2021)
-- Excellent Undergraduate Scholarship 本科生优秀奖学金 (2020, 2021, 2022)
+- 
+- Liu Yongling Scholarship 刘永龄奖学金 (Top 5\%)  (2024)
+- Excellent Undergraduate Scholarship 本科生优秀奖学金 (2024)
+- The Shuping Scholarship (Soh Bing Scholarship) 叔蘋奖学金 (2023, 2024)
 
 <div style="margin-bottom: 40px;"></div>
 
@@ -26,9 +25,7 @@ nav_order: 5
 #### Reviewer
 
 - International Conference on Computer Vision (ICCV), 2025
-- International Conference on Machine Learning (ICML), 2025
-- Computer Vision and Pattern Recognition (CVPR), 2025
-- International Conference on Learning Representations (ICLR), 2025
+- Design Automation Conference (DAC), 2025
 
 
 <div style="margin-bottom: 20px;"></div>

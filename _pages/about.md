@@ -23,9 +23,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student at Shanghai Jiao Tong University (SJTU). I work closely with [Prof. Guohao Dai](https://dai.sjtu.edu.cn/pepledetail.html?id=218) and [Prof. Yulun Zhang](https://yulunzhang.com/). My research focuses on LLM/DiT model acceleration.
+
+I am a junior undergraduate student at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). I work closely with [Prof. Guohao Dai](https://dai.sjtu.edu.cn/pepledetail.html?id=218) and [Prof. Yulun Zhang](https://yulunzhang.com/). My research focuses on LLM/DiT/dLLM models acceleration and compression through techniques such as CUDA kernel optimization, quantization, and specific algorithmic methods. 
+
+Outside of my primary research, I have interest in trading and am fascinated by both systematic quantitative finance and discretionary investment strategies.
+
+I interned at hedge funds doing quantitative research.
+
+<!-- [Kafang Technology](https://www.kafangtech.com/) and [Inno Asset](http://www.innoam.com/). -->
 
 <!-- I work closely with [Prof. Guohao Dai](https://dai.sjtu.edu.cn/pepledetail.html?id=218) and [Prof. Yulun Zhang](https://yulunzhang.com/), contributing to SpecEE (LLM speculative early exiting), BalanceGS (high-fidelity 3D Gaussian Splatting optimization), and QuantCache (efficient video generation with hierarchical latent caching and adaptive quantization). -->
+
+<!-- I interned at Kafang Technology and Inno Asset. -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 

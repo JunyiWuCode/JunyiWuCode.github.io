@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-1 paper accepted to **ICCV 2025**.
+Our paper [QuantCache](https://arxiv.org/abs/2503.06545) is accepted by ICCV 2025.

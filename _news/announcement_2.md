@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-04-22
+date: 2025-06-26
 inline: true
 related_posts: false
 ---
 
-I will join [ByteDance Seed-LLM Team](https://seed.bytedance.com/zh/direction/llm) as a research intern.
+1 paper accepted to **ICCV 2025**.

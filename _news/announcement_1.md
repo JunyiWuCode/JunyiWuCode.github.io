@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-01-23
+date: 2025-03-11
 inline: true
 related_posts: false
 ---
 
-Our papers [ARB-LLM](https://arxiv.org/abs/2410.03129) and [GenDataAgent](https://iclr.cc/virtual/2025/poster/29344) are accepted by **ICLR 2025**.
+1 paper accepted to **ISCA 2025**.

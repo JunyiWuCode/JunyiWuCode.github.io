@@ -23,9 +23,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student at Shanghai Jiao Tong University (SJTU). My research focuses on large language model acceleration, GPU systems for graphics/vision, and efficient video generation (quantization and caching).
+I am an undergraduate student at Shanghai Jiao Tong University (SJTU). I work closely with [Prof. Guohao Dai](https://dai.sjtu.edu.cn/pepledetail.html?id=218) and [Prof. Yulun Zhang](https://yulunzhang.com/). My research focuses on LLM/DiT model acceleration.
 
-I work closely with [Prof. Guohao Dai](https://dai.sjtu.edu.cn/pepledetail.html?id=218) and [Prof. Yulun Zhang](https://yulunzhang.com/), contributing to SpecEE (LLM speculative early exiting), BalanceGS (high-fidelity 3D Gaussian Splatting optimization), and QuantCache (efficient video generation with hierarchical latent caching and adaptive quantization).
+<!-- I work closely with [Prof. Guohao Dai](https://dai.sjtu.edu.cn/pepledetail.html?id=218) and [Prof. Yulun Zhang](https://yulunzhang.com/), contributing to SpecEE (LLM speculative early exiting), BalanceGS (high-fidelity 3D Gaussian Splatting optimization), and QuantCache (efficient video generation with hierarchical latent caching and adaptive quantization). -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 

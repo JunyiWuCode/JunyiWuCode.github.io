@@ -6,7 +6,7 @@ subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image:
   image_circular: false # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -23,11 +23,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second-year master student at the [Department of Computer Science and Engineering (CSE)](https://www.cs.sjtu.edu.cn/en/), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by Prof. [Yulun Zhang](https://yulunzhang.com/) and Prof. [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/). Previously, I received my B.E. degree from SJTU in 2023.
+I am an undergraduate student in Electronic Engineering at Shanghai Jiao Tong University (SJTU). My research focuses on large language model acceleration, GPU systems for graphics/vision, and efficient video generation (quantization and caching).
 
-My research interests lie in LLM/VLM/DiT model compression and acceleration, including techniques such as binarization and post-training quantization. Additionally, I focus on synthetic data augmentation and AI-generated content (AIGC), encompassing text-to-image and text-to-video generative models.
-
-I interned at [Amazon ASAIL](https://www.amazonaws.cn/ailab/), [Sony AI](https://ai.sony/projects/ai-ethics/), [Xiaohongshu](https://job.xiaohongshu.com/), and [Bytedance Seed-LLM](https://seed.bytedance.com/zh/direction/llm).
+I have worked as a research assistant with Prof. Guohao Dai (SJTU) and Prof. Yulun Zhang, contributing to SpecEE (LLM speculative early exiting), BalanceGS (high-fidelity 3D Gaussian Splatting optimization), and QuantCache (efficient video generation with hierarchical latent caching and adaptive quantization).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 

@@ -18,12 +18,18 @@ layout: default
         </h1>
         <div class="social-small">
           <div class="contact-icons">
-            <a href="mailto:lzt-cnbg@sjtu.edu.cn" title="email"><i class="fa-solid fa-envelope"></i></a>
+            {% assign email_addr = site.data.socials.email | default: site.email %}
+            {% if email_addr %}
+            <a href="mailto:{{ email_addr }}" title="email"><i class="fa-solid fa-envelope"></i></a>
             <span class="divider" style="margin: 0 5px;"></span>
+            {% endif %}
+            {% if site.scholar_userid %}
             <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
             <span class="divider" style="margin: 0 5px;"></span>
+            {% endif %}
+            {% if site.github_username %}
             <a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fab fa-github"></i></a>
-            <!-- Add more social icons as needed -->
+            {% endif %}
           </div>
         </div>
         <div class="clearfix">{{ content }}</div>

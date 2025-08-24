@@ -6,6 +6,8 @@ title: Junyi Wu # the website title (if blank, full name will be used instead)
 first_name: Junyi
 middle_name:
 last_name: Wu
+# optional Chinese name for display on About page
+cn_name: 吴俊逸
 # social handles for templates that read from site.*
 github_username: JunyiWuCode
 scholar_userid: e-0gPdMAAAAJ

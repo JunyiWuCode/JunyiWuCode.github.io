@@ -15,6 +15,9 @@ layout: default
       <div class="col-sm-9">
         <h1 class="post-title">
           {{ site.first_name }} {{ site.last_name }}
+          {% if site.cn_name %}
+            <span style="font-size: 0.6em; color: #666; margin-left: 8px;">{{ site.cn_name }}</span>
+          {% endif %}
         </h1>
         <div class="social-small">
           <div class="contact-icons">

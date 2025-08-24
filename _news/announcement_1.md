@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-1 paper accepted to **ISCA 2025**.
+1 paper is accepted by **ISCA 2025**.

@@ -6,7 +6,7 @@ subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: left
-  image: /home/kimiwu/JunyiWuCode.github.io/assets/img/JunyiWu_pic.jpg
+  image: /home/kimiwu/JunyiWuCode.github.io/assets/img/JunyiWu_pic.png
   image_circular: false # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -24,7 +24,7 @@ latest_posts:
 ---
 
 
-I am a junior undergraduate student at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). I worked closely with [Prof. Guohao Dai](https://dai.sjtu.edu.cn/pepledetail.html?id=218) and [Prof. Yulun Zhang](https://yulunzhang.com/). My research interests lie in LLM/DiT/dLLM models acceleration and compression through techniques such as CUDA kernel optimization, quantization, and specific algorithmic methods. 
+I am a junior undergraduate student at the [Departmen of EE.](https://ee.sjtu.edu.cn/en/Default.aspx), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). I worked closely with [Prof. Guohao Dai](https://dai.sjtu.edu.cn/pepledetail.html?id=218) and [Prof. Yulun Zhang](https://yulunzhang.com/). My research interests lie in LLM/DiT/dLLM models acceleration and compression through techniques such as CUDA kernel optimization, quantization, and specific algorithmic methods. 
 
 Outside of my primary research, I have interest in trading, fascinated by both systematic quantitative finance and discretionary investment strategies. 
 

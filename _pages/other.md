@@ -7,8 +7,7 @@ nav_order: 5
 ---
 ## **Honors**
 
-- 
-- Liu Yongling Scholarship 刘永龄奖学金 (Top 5\%)  (2024)
+- Liu Yongling Scholarship 刘永龄奖学金 (Top 5%)  (2024)
 - Excellent Undergraduate Scholarship 本科生优秀奖学金 (2024)
 - The Shuping Scholarship (Soh Bing Scholarship) 叔蘋奖学金 (2023, 2024)
 

@@ -24,9 +24,9 @@ latest_posts:
 ---
 
 
-I am a junior undergraduate student at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). I worked closely with [Prof. Guohao Dai](https://dai.sjtu.edu.cn/pepledetail.html?id=218) and [Prof. Yulun Zhang](https://yulunzhang.com/). My research focuses on LLM/DiT/dLLM models acceleration and compression through techniques such as CUDA kernel optimization, quantization, and specific algorithmic methods. 
+I am a junior undergraduate student at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). I worked closely with [Prof. Guohao Dai](https://dai.sjtu.edu.cn/pepledetail.html?id=218) and [Prof. Yulun Zhang](https://yulunzhang.com/). My research interests lie in LLM/DiT/dLLM models acceleration and compression through techniques such as CUDA kernel optimization, quantization, and specific algorithmic methods. 
 
-Outside of my primary research, I have interest in trading and am fascinated by both systematic quantitative finance and discretionary investment strategies. 
+Outside of my primary research, I have interest in trading, fascinated by both systematic quantitative finance and discretionary investment strategies. 
 
 I interned at hedge funds doing quantitative research.
 

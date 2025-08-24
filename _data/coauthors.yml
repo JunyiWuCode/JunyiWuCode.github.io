@@ -1,14 +1,14 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"xu":
+  - firstname: ["Jiaming"]
+    url: https://dai.sjtu.edu.cn/pepledetail.html?id=249
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"dai":
+  - firstname: ["Guohao"]
+    url: https://dai.sjtu.edu.cn/pepledetail.html?id=218
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"zhang":
+  - firstname: ["Yulun"]
+    url: https://yulunzhang.com/
 
 "bach":
   - firstname: ["Johann Sebastian", "J. S."]

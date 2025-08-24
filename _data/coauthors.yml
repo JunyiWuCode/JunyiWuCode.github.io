@@ -11,8 +11,14 @@
     url: https://yulunzhang.com/
 
 "li":
-  - firstname: ["Jinhao"]
+  - firstname: ["Jinhao", "J."]
     url: https://dai.sjtu.edu.cn/pepledetail.html?id=295
+  - firstname: ["Xingyang", "X."]
+    url: https://acm.sjtu.edu.cn/~xyli/
+  - firstname: ["Hanxuan", "H."]
+    url: https://lhxcs.github.io/
+  - firstname: ["Zhiteng", "Z."]
+    url: https://zhitengli.github.io/
 
 "zhou":
   - firstname: ["Yongkang"]
@@ -22,17 +28,7 @@
   - firstname: ["Jiayi"]
     url: https://dai.sjtu.edu.cn/pepledetail.html?id=388
 
-"li":
-  - firstname: ["Xingyang"]
-    url: https://acm.sjtu.edu.cn/~xyli/
 
-"li":
-  - firstname: ["Hanxuan"]
-    url: https://lhxcs.github.io/
-
-"li":
-  - firstname: ["Zhiteng"]
-    url: https://zhitengli.github.io/
 
 "kong":
   - firstname: ["Linghe"]

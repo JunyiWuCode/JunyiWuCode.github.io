@@ -10,25 +10,39 @@
   - firstname: ["Yulun"]
     url: https://yulunzhang.com/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"li":
+  - firstname: ["Jinhao"]
+    url: https://dai.sjtu.edu.cn/pepledetail.html?id=295
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"zhou":
+  - firstname: ["Yongkang"]
+    url: https://dai.sjtu.edu.cn/pepledetail.html?id=370
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"pan":
+  - firstname: ["Jiayi"]
+    url: https://dai.sjtu.edu.cn/pepledetail.html?id=388
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"li":
+  - firstname: ["Xingyan"]
+    url: https://acm.sjtu.edu.cn/~xyli/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"li":
+  - firstname: ["Hanxuan"]
+    url: https://lhxcs.github.io/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"li":
+  - firstname: ["Zhiteng"]
+    url: https://zhitengli.github.io/
+
+"kong":
+  - firstname: ["Linghe"]
+    url: https://www.cs.sjtu.edu.cn/~linghe.kong/
+
+"liu":
+  - firstname: ["Kai"]
+    url: https://kai-liu001.github.io/
+
+"chen":
+  - firstname: ["Guihai"]
+    url: https://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=180
+

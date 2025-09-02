@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [BalanceGS](https://arxiv.org/abs/2503.06545) is accepted by **ASP-DAC 2026**.
+Our paper BalanceGS is accepted by **ASP-DAC 2026**.

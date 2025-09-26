@@ -29,7 +29,9 @@
   - firstname: ["Jiayi"]
     url: https://dai.sjtu.edu.cn/pepledetail.html?id=388
 
-
+"qin":
+  - firstname: ["Haotong"]
+    url: https://htqin.github.io/
 
 "kong":
   - firstname: ["Linghe"]
@@ -38,6 +40,8 @@
 "liu":
   - firstname: ["Kai"]
     url: https://kai-liu001.github.io/
+  - firstname: ["Xiaohong"]
+    url: https://jhc.sjtu.edu.cn/~xiaohongliu/
 
 "chen":
   - firstname: ["Guihai"]
@@ -46,3 +50,7 @@
 "hui":
   - firstname: ["Zheng"]
     url: https://zheng222.github.io/
+
+"yang":
+  - firstname: ["Xiaokang"]
+    url: https://icne.sjtu.edu.cn/info/1064/1078.htm

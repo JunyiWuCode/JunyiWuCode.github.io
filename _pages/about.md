@@ -28,7 +28,7 @@ I am a junior undergraduate student (2023.9 - Present) at the [Departmen of EE.]
 
 Outside of my primary research, I have interest in trading, fascinated by both quantitative and subjective trading. I interned at hedge funds doing quantitative research.
 
-Please feel free to reach out via email or WeChat if you would like to connect further.
+Please feel free to reach out via [email](mailto:junyiwu2005@outlook.com) or [WeChat](/assets/img/wechat_qr.png) if you would like to connect further.
 
 <!-- [Kafang Technology](https://www.kafangtech.com/) and [Inno Asset](http://www.innoam.com/). -->
 

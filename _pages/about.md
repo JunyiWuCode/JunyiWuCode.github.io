@@ -31,6 +31,14 @@ I am a junior undergraduate student (2023.9 - Present) at the [Department of EE.
 
 Please feel free to reach out via [email](mailto:junyiwu2005@outlook.com) or [WeChat](/assets/img/wechat_qr.png) if you would like to connect further.
 
+🎓 I am currently seeking a **PhD position starting in Fall 2027**, and am happy to discuss potential research fit and collaboration opportunities.
+
+## Research Interests
+
+- **Generative Models (e.g., DMD, RL, OPD)**
+- **Recursive Self-Improvement (RSI) and Automated Training**
+- **Efficient Machine Learning (Sparse Attention, Quantization)**
+
 <!-- [Kafang Technology](https://www.kafangtech.com/) and [Inno Asset](http://www.innoam.com/). -->
 
 <!-- I work closely with [Prof. Guohao Dai](https://dai.sjtu.edu.cn/pepledetail.html?id=218) and [Prof. Yulun Zhang](https://yulunzhang.com/), contributing to SpecEE (LLM speculative early exiting), BalanceGS (high-fidelity 3D Gaussian Splatting optimization), and QuantCache (efficient video generation with hierarchical latent caching and adaptive quantization). -->

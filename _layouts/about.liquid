@@ -1,18 +1,49 @@
 ---
 layout: default
 ---
-<div class="post">
+<style>
+  .about-home .about-heading { display: flex; align-items: center; gap: 28px; margin-bottom: 28px; }
+  .about-home .about-portrait { flex: 0 0 160px; }
+  .about-home .about-portrait img { display: block; width: 160px; height: 190px; object-fit: cover; border-radius: 6px; }
+  .about-home .about-identity { min-width: 0; }
+  .about-home .about-body { font-size: 16px; line-height: 1.75; }
+  .about-home .interest-note { margin: 24px 0 18px; padding: 20px 24px; border: 1px solid #dce3e8; border-radius: 8px; background: #f8fafb; color: #26333d; }
+  .about-home .interest-note h2 { margin: 0 0 12px; font-size: 19px; font-weight: 600; line-height: 1.4; letter-spacing: 0; }
+  .about-home .interest-note ul { margin: 0; padding-left: 20px; }
+  .about-home .interest-note li { margin: 6px 0; padding-left: 4px; }
+  .about-home .interest-note li::marker { color: #527489; }
+  .about-home .interest-note strong { font-weight: 600; }
+  .about-home .interest-note span { color: #53616c; }
+  .about-home .phd-note { margin: 18px 0; padding: 18px 24px; border: 1px solid #bfdcd4; border-left: 4px solid #39826f; border-radius: 8px; background: #f0f8f5; color: #253d35; line-height: 1.7; }
+  .about-home .phd-note p { margin: 0; }
+  .about-home .phd-note strong { font-weight: 600; color: #216551; }
+  .about-home .about-contact { margin-top: 18px; font-size: 15px; }
+  html[data-theme="dark"] .about-home .interest-note { background: #242a2e; border-color: #414b52; color: #edf1f3; }
+  html[data-theme="dark"] .about-home .interest-note span { color: #c0cad0; }
+  html[data-theme="dark"] .about-home .phd-note { background: #23342f; border-color: #426c5e; color: #e0eee7; }
+  html[data-theme="dark"] .about-home .phd-note strong { color: #a4dbc4; }
+  @media (max-width: 575px) {
+    .about-home .about-heading { gap: 18px; }
+    .about-home .about-portrait { flex-basis: 100px; }
+    .about-home .about-portrait img { width: 100px; height: 125px; }
+    .about-home .post-title { font-size: 28px; }
+    .about-home .post-title span { display: block; margin: 6px 0 0 !important; }
+    .about-home .interest-note, .about-home .phd-note { padding: 16px 18px; }
+    .about-home .interest-note span { display: block; }
+  }
+</style>
+<div class="post about-home">
   <header class="post-header">
-    <div class="d-flex align-items-center">
+    <div class="about-heading">
       <!-- Profile Image -->
-      <div class="profile float-left">
+      <div class="about-portrait">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
-          <img src="{{ profile_image_path }}" alt="Profile image" class="img-fluid profile-img" style="height: 280px; object-fit: cover;">
+          <img src="{{ profile_image_path | relative_url }}" alt="Junyi Wu" width="160" height="190">
         {% endif %}
       </div>
       <!-- Name and Title -->
-      <div class="col-sm-9">
+      <div class="about-identity">
         <h1 class="post-title">
           {{ site.first_name }} {{ site.last_name }}
           {% if site.cn_name %}
@@ -35,9 +66,9 @@ layout: default
             {% endif %}
           </div>
         </div>
-        <div class="clearfix">{{ content }}</div>
       </div>
     </div>
+    <div class="about-body">{{ content }}</div>
   </header>
 
   <article>

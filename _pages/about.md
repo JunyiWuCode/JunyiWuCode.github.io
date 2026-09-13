@@ -29,15 +29,20 @@ I am a junior undergraduate student (2023.9 - Present) at the [Department of EE.
 
 <!-- Outside of my primary research, I have interest in trading, fascinated by both quantitative and subjective trading. I interned at hedge funds doing quantitative research. -->
 
-Please feel free to reach out via [email](mailto:junyiwu2005@outlook.com) or [WeChat](/assets/img/wechat_qr.png) if you would like to connect further.
+<section class="interest-note" aria-labelledby="research-interests">
+  <h2 id="research-interests">Research Interests</h2>
+  <ul>
+    <li><strong>Generative Models</strong> <span>(e.g., DMD, RL, OPD)</span></li>
+    <li><strong>Recursive Self-Improvement (RSI)</strong> <span>and Automated Training</span></li>
+    <li><strong>Efficient Machine Learning</strong> <span>(Sparse Attention, Quantization)</span></li>
+  </ul>
+</section>
 
-🎓 I am currently seeking a **PhD position starting in Fall 2027**, and am happy to discuss potential research fit and collaboration opportunities.
+<aside class="phd-note" aria-label="PhD opportunities">
+  <p>🎓 I am currently seeking a <strong>PhD position starting in Fall 2027</strong>, and am happy to discuss potential research fit and collaboration opportunities.</p>
+</aside>
 
-## Research Interests
-
-- **Generative Models (e.g., DMD, RL, OPD)**
-- **Recursive Self-Improvement (RSI) and Automated Training**
-- **Efficient Machine Learning (Sparse Attention, Quantization)**
+<p class="about-contact">Please feel free to reach out via <a href="mailto:junyiwu2005@outlook.com">email</a> or <a href="/assets/img/wechat_qr.png">WeChat</a> if you would like to connect further.</p>
 
 <!-- [Kafang Technology](https://www.kafangtech.com/) and [Inno Asset](http://www.innoam.com/). -->
 

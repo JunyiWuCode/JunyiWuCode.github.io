@@ -31,10 +31,6 @@ I am a junior undergraduate student (2023.9 - Present) at the [Department of EE.
 
 Please feel free to reach out via [email](mailto:junyiwu2005@outlook.com) or [WeChat](/assets/img/wechat_qr.png) if you would like to connect further.
 
-### Research notebook
-
-[Paper Reading Notes — 原图与中文论文导读](/paper-reading-notes/) · [Research Visualizations](/research-visualizations/) · [Visual Generation Idea Bank](/visual-generation-idea-bank/)
-
 <!-- [Kafang Technology](https://www.kafangtech.com/) and [Inno Asset](http://www.innoam.com/). -->
 
 <!-- I work closely with [Prof. Guohao Dai](https://dai.sjtu.edu.cn/pepledetail.html?id=218) and [Prof. Yulun Zhang](https://yulunzhang.com/), contributing to SpecEE (LLM speculative early exiting), BalanceGS (high-fidelity 3D Gaussian Splatting optimization), and QuantCache (efficient video generation with hierarchical latent caching and adaptive quantization). -->
